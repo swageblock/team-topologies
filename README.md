@@ -1,7 +1,6 @@
 # Team Topologies
 This is a discussion guide for reflecting on Team Topologies by Matthew Skelton and Manuel Pais
-## Preface
-1. 
+# Part One
 
 ## The Problem with Org Charts
 1. Page 4, line 1 - Can a business optimize for either speed or stability or is it critical to optimize for both?
@@ -25,9 +24,11 @@ This is a discussion guide for reflecting on Team Topologies by Matthew Skelton 
 7. If 'Team Assignments are the first draft of the software architecture' how could we create organizational structures that align on the necessary boundaries without a big up front design?  How would this impact the autonomy of the teams after work begins?  
 8. Would teams that align to the software components lend itself to the work that the organization has, or would it increase the project complexity and be the same or slower?
 9. If teams were aligned to architectural concerns would it make maintenance less costly and new feature work more efficient?
-10. Given Conway's Law is true, does that imply that Product Strategy is defining the architecture in the way that service work is assigned to teams? (page 23)
+10. Given Conway's Law is true, does that imply the person assigning work is really the first-wave architect? (page 23)
 11. Does the decision making process for how teams are assigned work lend itself to staffing plans?
 12. Do we spend the time addressing team interactions that should not exist?  Have you ever discovered communication (not the team building kind) across teams that you recognized as inappropriate and indicating a larger problem?
 13. How can we take advantage of the remote offices and locations within the buildings?
 14. Is there merit to separating tooling such as TFS, Agile Backlog mgmt, Logging, F5's, etc to provide more distinct seperation of team responsibilities?  How should we consider other business divisions that we are creating?
-15. 
+
+## Team-First Thinking
+1. 
